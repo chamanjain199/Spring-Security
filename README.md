@@ -11,6 +11,5 @@ Basic Authentication: Each time you need to send an authorization header with va
      you can encode your username and password in base64 from https://www.base64encode.org/
      
 Login Form: Firstly user login with a login form by submitting username and password and get a cookie named JSESSIONID
-      
-      then user need to send this cookie in other apis
+     then user need to send this cookie in other apis
      
